@@ -1,4 +1,3 @@
-console.log(hello world)
 
 const colors = {
   Reset: "\x1b[0m",
